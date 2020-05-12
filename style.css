@@ -77,7 +77,7 @@ GERAL
   CABEÇALHO
   */
   header {
-    background-image: url("https://s22.postimg.org/n4kckyho1/fundo_escuro.jpg");
+    background-image: url("https://i.postimg.cc/9Qn15gNk/unnamed.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -293,6 +293,6 @@ GERAL
     }
     
     .icone-contato:last-child {
-      margin-top: 0;
+      margin-top: auto;
     }
   }
